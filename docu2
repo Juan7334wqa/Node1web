@@ -14,3 +14,7 @@ data.then((character)=>{
 }).finally(()=>{
     console.log("Felicidades has conseguido un personaje o no");
 })
+
+
+
+
